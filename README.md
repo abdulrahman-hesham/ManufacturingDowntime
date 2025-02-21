@@ -121,11 +121,4 @@ The scope of the project includes:
 
 ---
 
-### How to Upload Files to GitHub:
-1. Go to your GitHub repository.
-2. Click on **Add file** > **Upload files**.
-3. Drag and drop your PDF or PowerBI file into the repository.
-4. Commit the changes.
-5. Update the links in the `README.md` file to point to the uploaded files.
 
----
