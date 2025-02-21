@@ -116,8 +116,8 @@ The scope of the project includes:
 ---
 
 ## 3. Data Modeling (Using PowerBI)
-[Click here to view the Data Modeling File](#)  
-*(Upload the PowerBI file to your repository and replace the link above with the actual file path.)*
+(https://github.com/abdulrahman-hesham/ManufacturingDowntime/blob/Overview/DT%20Data%20Modeling.jpg)](#)  
+
 
 ---
 
