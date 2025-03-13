@@ -58,19 +58,6 @@ The scope of the project includes:
 - Tableau dashboard.
 - Final report and presentation.
 
-#### Resource Allocation:
-- **Mahmoud:** Task assignment, Excel analysis, and tool suggestions.
-- **Marwa:** SQL data preprocessing and analysis.
-- **Olfat:** Python data preprocessing and analysis.
-- **Abdulrahman:** Visualization and presentation.
-
----
-
-### C. Task Assignment & Roles
-- **Mahmoud:** Assign tasks, clean and analyze data in Excel, and suggest tools.
-- **Marwa:** Data preprocessing and analysis using SQL.
-- **Olfat:** Data preprocessing and analysis using Python.
-- **Abdulrahman:** Visualization and presentation.
 
 ---
 
