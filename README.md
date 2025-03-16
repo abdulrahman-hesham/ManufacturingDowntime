@@ -34,9 +34,7 @@ The scope of the project includes:
 
 ### B. Project Plan
 
-#### Timeline (Gantt Chart):
-[Click here to view the Gantt Chart PDF](#)  
-*(Upload the PDF file to your repository and replace the link above with the actual file path.)*
+
 
 - **Week 1:** Data Model Building, Data Cleaning, and Preprocessing.
 - **Week 2:** Analysis Questions Phase.
