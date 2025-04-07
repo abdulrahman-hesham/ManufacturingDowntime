@@ -3,7 +3,8 @@
 ## 📋 Table of Contents
 1. [Project Planning & Management](#project-planning--management)
 2. [Requirements Gathering](#requirements-gathering)
-3. [Data Modeling (Using PowerBI)](#data-modeling-using-powerbi)
+3. [Task Assignment & Roles](#task-assignment--roles)  
+4. [Data Modeling (Using PowerBI)](#data-modeling-using-powerbi)
 
 ---
 
@@ -99,8 +100,15 @@ The scope of the project includes:
 - **Reliability:** The system should provide accurate and consistent results.
 
 ---
+### **3. Task Assignment & Roles**  
+Defined responsibilities for team members:  
+- **Marwa Ibrahim**: SQL Analysis  
+- **Olfat Rady**: Python Analysis  
+- **Mahmoud Farag**: Excel, Power BI, and Tableau Analysis  
+- **Abdulrahman Hesham**: Presentation and Documentation
+---
 
-## 3. Data Modeling (Using PowerBI)
+## 4. Data Modeling (Using PowerBI)
 (https://github.com/abdulrahman-hesham/ManufacturingDowntime/blob/Overview/DT%20Data%20Modeling.jpg)
 
 
