@@ -5,7 +5,7 @@
 2. [Requirements Gathering](#requirements-gathering)
 3. [Task Assignment & Roles](#task-assignment--roles)  
 4. [Data Modeling (Using PowerBI)](#data-modeling-using-powerbi)
-5. Tableau Analysis
+5. [Tableau Analysis](#tableau-analysis)
 
 ---
 
